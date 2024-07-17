@@ -82,7 +82,7 @@ form > a.butao {
     padding-top: 7px;
     border-radius: 5px;
     text-decoration: none;
-    
+    color: black;
     background-color: rgba(211, 211, 211, 0.342);
 }
 form > a.butao:hover{
