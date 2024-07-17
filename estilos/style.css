@@ -65,6 +65,8 @@ form > input[type=submit]{
     height: 40px;
     border: none;
     border-radius: 5px;
+    background-color: rgba(211, 211, 211, 0.342);
+    color: black;
 }
 form > input[type=submit]:hover{
     background-color: rgba(103, 127, 150, 0.459);
@@ -80,7 +82,7 @@ form > a.butao {
     padding-top: 7px;
     border-radius: 5px;
     text-decoration: none;
-    color: black;
+    
     background-color: rgba(211, 211, 211, 0.342);
 }
 form > a.butao:hover{
